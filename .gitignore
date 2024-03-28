@@ -1,0 +1,7 @@
+
+.DS_Store
+*.hcl
+*.0_x5
+/module-poc/.terraform
+/RemoteBacked_StateLocking/.terraform
+/Terrafrom_workspace/.terraform
